@@ -1,9 +1,11 @@
 # st
-A fork of the simple terminal (st)
+A fork of the simple terminal (st) with custom patches and configuration applied.
 
 ## Patches
 anysize
+
 boxdraw
+
 scrollback
 
 ## Usage

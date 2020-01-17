@@ -12,6 +12,8 @@ clipboard
 
 font2
 
+newterm
+
 scrollback
 
 vertcenter
